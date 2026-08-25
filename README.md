@@ -1,1 +1,1 @@
-# www.atapu-trading.github.io
+atapu-trading.github.io
